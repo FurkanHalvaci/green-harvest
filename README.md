@@ -1,6 +1,7 @@
-🌱 🥷 Greenfield Ninjas - A team of coders growing fresh ideas! 💻🥑
-
-🍀 Green Harvest is our collaborative project, delivering a fresh veggie store experience 🥕🌽. 
-We’ve crafted it to look great on any device—mobile 📱, tablet 📱, or desktop 🖥️.
-
-Bringing a dash of green to the digital world! 💚
+<<<<<<< HEAD
+# GreenHarvest
+GOIT-HTML/CSS-TeamProject-GreenHarvest
+=======
+# GreenHarvest
+GOIT-HTML/CSS-TeamProject-GreenHarvest
+>>>>>>> bf8a1b96901e41e3f5eac047246e297ab186368f
